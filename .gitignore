@@ -1,0 +1,5 @@
+/flask/venv
+.mypy_cache
+.vscode
+/web/.next
+/web/node_modules/
